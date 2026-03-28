@@ -20,6 +20,8 @@ Total albums by month
 
 Interactive song preview section (UI-based)
 
+Dashboard Link :- https://app.powerbi.com/view?r=eyJrIjoiMjU3NDhmNzQtOTMyNi00ZGRjLWIzMWEtNjRhZWZhMGM0ZWM4IiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
 🛠 Tools & Skills Used
 
 Power BI
